@@ -1,0 +1,25 @@
+para usar switch console:
+tux3 s0 a uma porta, ligar switch console na porta ao lado
+
+para usar router console:
+tux3 s0 a uma porta, ligar router console na porta ao lado
+ 
+
+para poder usar router, ligar router interface 1 à porta 1.1
+
+
+Y: bancada
+W: sala
+
+para tuxs, mudar de pc com scroll lock
+
+para router e switch 
+repor as configurações (diz no papel)
+fazer ligações na  consola
+correr os comandos no GTKTErm ,
+
+começar no switch
+ligar tuxs a portas do switch
+configurar vlans
+
+ 
